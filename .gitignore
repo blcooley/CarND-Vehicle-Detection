@@ -1,0 +1,5 @@
+/#vd-pipeline.py#~
+/.ipynb_checkpoints/*
+*.md~
+training/*
+examples/.DS_Store
